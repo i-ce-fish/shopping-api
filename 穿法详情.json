@@ -1,0 +1,103 @@
+{
+  "carousels": [
+    {
+      "url": "https://www.uniqlo.cn/hmall/test/u0000000015347/model/rank1/first/591-822/1.jpg"
+    },
+    {
+      "url": "https://www.uniqlo.cn/hmall/test/u0000000015347/model/rank1/first/591-822/1.jpg"
+    },
+    {
+      "url": "https://www.uniqlo.cn/hmall/test/u0000000015347/model/rank1/first/591-822/1.jpg"
+    },
+    {
+      "url": "https://www.uniqlo.cn/hmall/test/u0000000015347/model/rank1/first/591-822/1.jpg"
+    }
+  ],
+  "wear": {
+    "title": "范爷范冰冰小海星牛仔外套童趣",
+    "content": "穿法介绍：夏日都市养眼大气清纯气质财运商务通勤装\n穿法介绍：夏日都市养眼大气清纯气质财运商务通勤装\n穿法介绍：夏日都市养眼大气清纯气质财运商务通勤装",
+    "label": [
+      "欧洲最新轻薄高科技",
+      "纽约时装周爆品"
+    ]
+  },
+  "products": [
+    {
+      "intro": "搭配原因：黑色显瘦, 风格百搭, 细节特征和穿法的关联",
+      "minPrice": "99.99",
+      "maxPrice": "299.99",
+      "list": [
+        {
+          "id": "2",
+          "name": "麻混纺半开领上衣1",
+          "onsale_price": "99.00",
+          "url": "https://www.uniqlo.cn/hmall/test/u0000000015867/model/rank1/other1/196-273/2.jpg",
+          "showFirst": true
+        },
+        {
+          "id": "3",
+          "name": "麻混纺半开领上衣2",
+          "onsale_price": "199.00",
+          "url": "https://www.uniqlo.cn/hmall/test/u0000000015867/model/rank1/first/591-822/1.jpg"
+        },
+        {
+          "id": "4",
+          "name": "麻混纺半开领上衣3",
+          "onsale_price": "299.00",
+          "url": "https://www.uniqlo.cn/hmall/test/u0000000015867/main/other4/1000/5.jpg"
+        }
+      ]
+    },
+    {
+      "intro": "搭配原因：黑色显瘦, 风格百搭, 细节特征和穿法的关联",
+      "minPrice": "99.99",
+      "maxPrice": "299.99",
+      "list": [
+        {
+          "id": "1",
+          "name": "雪纺打褶裙裤1",
+          "onsale_price": "99.00",
+          "url": "https://www.uniqlo.cn/hmall/test/u0000000014626/model/rank2/other1/196-273/2.jpg",
+          "showFirst": true
+        },
+        {
+          "id": "2",
+          "name": "雪纺打褶裙裤2",
+          "onsale_price": "199.00",
+          "url": "https://www.uniqlo.cn/hmall/test/u0000000014626/model/rank1/other1/196-273/2.jpg"
+        },
+        {
+          "id": "3",
+          "name": "雪纺打褶裙裤3",
+          "onsale_price": "299.00",
+          "url": "https://www.uniqlo.cn/hmall/test/u0000000013233/color/196-273/4.jpg"
+        }
+      ]
+    },
+    {
+      "minPrice": "99.99",
+      "maxPrice": "299.99",
+      "list": [
+        {
+          "id": "1",
+          "name": "平底拖鞋1",
+          "onsale_price": "99.00",
+          "url": "https://www.uniqlo.cn/hmall/test/u0000000015347/main/other4/1000/5.jpg",
+          "showFirst": true
+        },
+        {
+          "id": "2",
+          "name": "平底拖鞋2",
+          "onsale_price": "199.00",
+          "url": "https://www.uniqlo.cn/hmall/test/u0000000015347/main/first/1000/1.jpg"
+        },
+        {
+          "id": "3",
+          "name": "平底拖鞋3",
+          "onsale_price": "299.00",
+          "url": "https://www.uniqlo.cn/hmall/test/u0000000015347/model/rank3/other1/196-273/2.jpg"
+        }
+      ]
+    }
+  ]
+}

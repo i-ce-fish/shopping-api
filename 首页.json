@@ -1,0 +1,257 @@
+{
+
+    "shop": {
+      "address": "丽水市中山街店522号(百货大楼旁)",
+      "qrcode": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1593673011872&di=6e98e25a009f7ca0086899e8f015145d&imgtype=0&src=http%3A%2F%2Fefile.kaoyan.com%2Fimg%2F2020%2F05%2F25%2F193612_5ecbadac69b24.png",
+      "wxid": "wxid_sdfkljdsfkl153",
+      "introduction": "我是店长王小丽，我做服装行业12年12年时间，\n我很直爽，开店很累，但我喜欢时尚",
+      "latitude": 23.13,
+      "longitude": 113.27
+    },
+    "imgs": [
+      {
+        "url": "https://www.uniqlo.cn/hmall/test/u0000000009932/detail/393/10.jpg"
+      },
+      {
+        "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1582049975121&di=09124e52fb2d9c56f849f4fa5fa2a2a1&imgtype=0&src=http%3A%2F%2Fimg.hkwb.net%2Fatt%2Fsite2%2F20171228%2Fe6805aee9afd115c2b948f9b12528964.jpg"
+      },
+      {
+        "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1582049975121&di=09124e52fb2d9c56f849f4fa5fa2a2a1&imgtype=0&src=http%3A%2F%2Fimg.hkwb.net%2Fatt%2Fsite2%2F20171228%2Fe6805aee9afd115c2b948f9b12528964.jpg"
+      }
+    ],
+    "customerDiscount": [
+      {
+        "title": "店铺新品对您 8.8 折"
+      },
+      {
+        "title": "您生日当月享受一件 7.5 折，另三件 8.5 折"
+      },
+      {
+        "title": "享受新品 8.8 折"
+      }
+    ],
+    "activity": [
+      {
+        "title": "满500元立减100元",
+        "subtitle": "全场货品",
+        "bgc": "#f6c4ad"
+      },
+      {
+        "title": "低至 1 折起",
+        "subtitle": "三楼女装，SALE",
+        "bgc": "#fadca7"
+      },
+      {
+        "title": "特价速秒  售完即止",
+        "subtitle": "今日必入",
+        "bgc": "#f8f2b7"
+      },
+      {
+        "title": "无印良品工厂直供\n床上四件套\n今晚19:00",
+        "subtitle": "拼团直播",
+        "bgc": "#ffcf9b"
+      }
+    ],
+    "newProducts": [
+      {
+        "img": "https://www.uniqlo.cn/hmall/test/u0000000016501/main/first/561/1.jpg",
+        "allName": "麻混纺宽腿裤 (附腰带)(老爹裤)",
+        "name": "麻混",
+        "price": "499.00",
+        "colors": [
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016501/chip/22/COL31.jpg"
+          },
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016503/chip/22/COL00.jpg"
+          },
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016503/chip/22/COL09.jpg"
+          }
+        ]
+      },
+      {
+        "img": "https://www.uniqlo.cn/hmall/test/u0000000016501/main/first/561/1.jpg",
+        "allName": "麻混纺宽腿裤 (附腰带)(老爹裤)",
+        "name": "麻混",
+        "price": "499.00",
+        "colors": [
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016501/chip/22/COL31.jpg"
+          },
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016503/chip/22/COL00.jpg"
+          },
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016503/chip/22/COL09.jpg"
+          }
+        ]
+      },
+      {
+        "img": "https://www.uniqlo.cn/hmall/test/u0000000016501/main/first/561/1.jpg",
+        "allName": "麻混纺宽腿裤 (附腰带)(老爹裤)",
+        "name": "麻混",
+        "price": "499.00",
+        "colors": [
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016501/chip/22/COL31.jpg"
+          },
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016503/chip/22/COL00.jpg"
+          },
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016503/chip/22/COL09.jpg"
+          }
+        ]
+      },
+      {
+        "img": "https://www.uniqlo.cn/hmall/test/u0000000016501/main/first/561/1.jpg",
+        "allName": "麻混",
+        "name": "麻混",
+        "price": "499.00",
+        "colors": [
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016501/chip/22/COL31.jpg"
+          },
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016503/chip/22/COL00.jpg"
+          },
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016503/chip/22/COL09.jpg"
+          }
+        ]
+      },
+      {
+        "img": "https://www.uniqlo.cn/hmall/test/u0000000016501/main/first/561/1.jpg",
+        "allName": "麻混纺宽腿裤 (附腰带)(老爹裤)",
+        "name": "麻混",
+        "price": "499.00",
+        "colors": [
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016501/chip/22/COL31.jpg"
+          },
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016503/chip/22/COL00.jpg"
+          },
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016503/chip/22/COL09.jpg"
+          }
+        ]
+      },
+      {
+        "img": "https://www.uniqlo.cn/hmall/test/u0000000016501/main/first/561/1.jpg",
+        "allName": "麻混纺宽腿裤 (附腰带)(老爹裤)",
+        "name": "麻混",
+        "price": "499.00",
+        "colors": [
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016501/chip/22/COL31.jpg"
+          },
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016503/chip/22/COL00.jpg"
+          },
+          {
+            "url": "https://www.uniqlo.cn/hmall/test/u0000000016503/chip/22/COL09.jpg"
+          }
+        ]
+      }
+    ],
+    "wears": [
+      {
+        "img": "https://img1.cache.netease.com/catchpic/4/44/447CDD5924DDF235067C7EAC5C25B11D.jpg",
+        "title": "杨幂牛仔外套内搭灰色针织衫+黑色瘦腿裤杨幂牛仔外套内搭灰色针织",
+        "subtitle": ""
+      },
+      {
+        "img": "https://img1.cache.netease.com/catchpic/4/40/401595388FAC4B49D519336E83F5AA11.jpg",
+        "title": "范爷范冰冰小海星牛仔外套童趣",
+        "subtitle": ""
+      },
+      {
+        "img": "https://img1.cache.netease.com/catchpic/E/ED/ED4795F0EBF01DF790275D2FF7979485.jpg",
+        "title": "秒变清纯身材单薄穿出",
+        "subtitle": ""
+      },
+      {
+        "img": "https://gd3.alicdn.com/imgextra/i3/63764294/O1CN019fn7pj1hahFQQaezH_!!63764294.jpg_400x400.jpg",
+        "title": "夏日都市养眼大气清纯气质财运商务通勤装",
+        "subtitle": ""
+      },
+      {
+        "img": "https://www.uniqlo.cn/hmall/test/u0000000013827/mobileDetail/3.jpg",
+        "title": "夏日都市养眼大气清纯气质财运商务通勤装",
+        "subtitle": ""
+      },
+      {
+        "img": "https://www.uniqlo.cn/hmall/test/u0000000013827/model/rank1/first/765-1065/1.jpg",
+        "title": "夏日都市养眼大气清纯气质财运商务通勤装",
+        "subtitle": ""
+      },
+      {
+        "img": "https://www.uniqlo.cn/cms/3d98fc35127b31778b998ad16f44243b.jpg",
+        "title": "夏日都市养眼大气清纯气质财运商务通勤装",
+        "subtitle": ""
+      }
+    ],
+    "wearFilter": [
+      {
+        "name": "明星穿法"
+      },
+      {
+        "name": "显瘦穿法"
+      },
+      {
+        "name": "广州流行"
+      },
+      {
+        "name": "欧美校园"
+      },
+      {
+        "name": "日韩最新"
+      },
+      {
+        "name": "炫酷个性"
+      },
+      {
+        "name": "通勤达人"
+      },
+      {
+        "name": "轻奢简约"
+      }
+    ],
+    "newFilter": [
+      {
+        "name": "新品预售"
+      },
+      {
+        "name": "新品上架"
+      },
+      {
+        "name": "广州流行"
+      },
+      {
+        "name": "日韩最新"
+      },
+      {
+        "name": "男装"
+      },
+      {
+        "name": "女装"
+      },
+      {
+        "name": "童装"
+      },
+      {
+        "name": "家居"
+      }
+    ],
+    "user": {
+      "id": 2,
+      "name": "顾客1",
+      "wechat_id": "1",
+      "credits": 1,
+      "default_addr_id": 1,
+      "vip_level": 1,
+      "created_at": "2020-06-10 20:13:27"
+    }
+  }
